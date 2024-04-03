@@ -1,3 +1,3 @@
 # tabnews
 
-Estudando programação com Filipi Deschamps no curso.dev.
+Estudando programação com Filipe Deschamps no curso.dev.
